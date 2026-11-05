@@ -7,8 +7,8 @@
   --text: #111113;
   --muted: #6b6b73;
   --faint: #a0a0a8;
-  --accent: #5e6ad2;
-  --accent-soft: rgba(94, 106, 210, 0.1);
+  --accent: #c2410c;
+  --accent-soft: rgba(194, 65, 12, 0.1);
   --success: #2f9e6b;
   --success-soft: rgba(47, 158, 107, 0.1);
   --mascot: #070707;
@@ -30,8 +30,8 @@
     --text: #ededef;
     --muted: #8b8b94;
     --faint: #5c5c64;
-    --accent: #8b93f0;
-    --accent-soft: rgba(139, 147, 240, 0.12);
+    --accent: #fb923c;
+    --accent-soft: rgba(251, 146, 60, 0.12);
     --success: #4cc38a;
     --success-soft: rgba(76, 195, 138, 0.12);
     --mascot-ring: rgba(255, 255, 255, 0.16);
